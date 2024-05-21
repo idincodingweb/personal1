@@ -1,0 +1,25 @@
+/* style/testimonials.css */
+#testimonials .carousel {
+  background: linear-gradient(120deg, #6a31e4 0%, #14003e 100%);;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+#testimonials .blockquote {
+  font-size: 1.2rem; /* 18px */
+  line-height: 1.5;
+}
+
+#testimonials .carousel-control-prev-icon,
+#testimonials .carousel-control-next-icon {
+  background-color: #14003e;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+}
+
+/* Tambahkan lebih banyak gaya sesuai kebutuhan */
+.blockquote-footer{
+  background: transparent;
+}
+  

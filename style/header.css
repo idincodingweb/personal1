@@ -1,0 +1,19 @@
+  .full-page-header {
+    height: 100vh;
+    background: linear-gradient(120deg, #6a31e4 0%, #14003e 100%);
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .bold-fonts {
+    font-weight: bold;
+  }
+  .hand-drawn-elements {
+    font-family: 'Permanent Marker', cursive;
+  }
+  .dark-mode {
+    background-color: #333;
+    color: white;
+  }

@@ -1,0 +1,15 @@
+/* style/contact.css */
+#contact .form-control {
+  border-radius: 0.25rem;
+}
+
+#contact .btn-primary {
+  background-color: #2b047d;
+  border-color: #2b047d;
+}
+
+
+/* Tambahkan gaya untuk peta jika Anda menggunakan peta interaktif */
+#map {
+  /* Gaya peta akan ditambahkan di sini */
+}

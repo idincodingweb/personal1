@@ -1,0 +1,6 @@
+/* style/main.css */
+#blog-post {
+  padding-top: 56px; /* Adjust the padding to ensure the navbar does not overlap the content when using a fixed-top navbar */
+}
+
+/* Add more styles as needed */

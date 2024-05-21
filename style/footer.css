@@ -1,0 +1,19 @@
+/* style/footer.css */
+footer {
+  color: white;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Font Awesome Icons */
+.fab {
+  font-size: 1.5rem; /* 24px */
+  margin-right: 0.5rem;
+}
